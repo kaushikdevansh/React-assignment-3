@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import StudentRow from './components/StudentRow';
-import AddStudentForm from './components/AddStudentForm';
+import StudentRow from './Components/StudentRow';
+import AddStudentForm from './Components/AddStudentForm';
 import './Scoreboard.css';
 
 const App = () => {
